@@ -26,6 +26,7 @@ int main(){
     int input;
     cout<<"enter a non-negative integer :"<<endl;
     while(input>=0){
+
         cout<<"you entered :"<<input<<endl;
         cout<<"enter another number or negative to quit :"<<endl;
         cin>>input;
