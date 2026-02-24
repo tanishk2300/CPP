@@ -15,12 +15,9 @@ int main(){
     }
         else{
             break;
-        }
-
-    
-    
+        }   
 }
 cout<<"Final sum="<<sum;
 return 0;
 
-}
+};
