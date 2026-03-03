@@ -6,14 +6,10 @@ int main(){
     array<int ,10>myNums;
     for (int i=0;i<myNums.size();i++){
         myNums[i]=i*2;
-
     }
     for (int element : myNums)//stl array class.
     {
         cout<<element<<endl;
-
     }
-    
-
     return 0;
 }
