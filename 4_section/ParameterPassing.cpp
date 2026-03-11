@@ -14,3 +14,4 @@ int main (){
 void valuechange(int& somenum){ // '&' this is use to change the value of main .
     somenum=120;
 }
+// parameter passing 
